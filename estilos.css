@@ -8,8 +8,15 @@ h1{font-size: 60px;
 
 .familiatexto{
     font-family: "papyrus";
-    font-size: 2em;
+    font-size: 15px;
+    color: #091FF6;
+    text-align: justify;
 
-}        
+
+}  
+
+body{
+    background-color: chocolate;
+}
 
 
