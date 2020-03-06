@@ -1,22 +1,13 @@
-h1{font-size: 60px;
-}
+h1{font-size: 60px;}
 
-    h3{
-        font-size: 100px;    
-    }
+    h3{ font-size: 100px; }
         
 
-.familiatexto{
-    font-family: "papyrus";
-    font-size: 15px;
-    color: #091FF6;
-    text-align: justify;
+.familiatexto{font-family: "papyrus"; font-size: 15px;color: #091FF6;text-align: justify; }  
 
+.bodyprincipal{ background-color: chartreuse;}
 
-}  
+.headerverde{ background-color: darkcyan;}
 
-body{
-    background-color: chocolate;
-}
 
 
